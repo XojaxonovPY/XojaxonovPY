@@ -13,7 +13,7 @@ asqarservis00001@gmail.com
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/Gorinhas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xojaxonov-g-ayrat-0302a7335/)  [![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:asqarservis00001@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/Xojaxonov_vv/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/Gorinhas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xojaxonov-g-ayrat-0302a7335/)  [![Gmail](https://img.shields.io/badge/asqarservis00001@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:asqarservis00001@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/Xojaxonov_vv/)
 
 
 # 💻 Tech Stack:
