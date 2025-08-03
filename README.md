@@ -54,12 +54,12 @@ asqarservis00001@gmail.com
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dilshodev-py&theme=radical">
 <br/>
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshodev-py&theme=tokyonight">
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodev-py&theme=tokyonight&hide_border=true" alt="Dilshodbek">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Dilshodbek">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=dilshodev-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodev-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
