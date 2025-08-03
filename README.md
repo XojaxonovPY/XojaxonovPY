@@ -32,6 +32,9 @@ asqarservis00001@gmail.com
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
 ![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-informational?style=flat&logo=graphql&logoColor=white&color=E10098)
+![Aiogram](https://img.shields.io/badge/Aiogram-v3.x-blue?style=flat&logo=telegram&logoColor=white)
+
 
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
@@ -61,7 +64,7 @@ asqarservis00001@gmail.com
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodev-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
 ## 👁️ Number of visits:
