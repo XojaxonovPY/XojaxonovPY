@@ -19,7 +19,7 @@ asqarservis00001@gmail.com
 # 💻 Tech Stack:
 
 ![](https://img.shields.io/badge/Python-information?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=039BE5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-database-success?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
 </br>
