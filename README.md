@@ -46,6 +46,7 @@ asqarservis00001@gmail.com
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Gunicorn-information?color=%298729&style=flat&logo=gunicorn&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23Clojure.svg?style=flat&logo=Celery&logoColor=Green)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-broker-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
