@@ -6,8 +6,8 @@
 
 
 - 🔭 Self Employed
-- 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
-- 📫 How to reach me [**asqarservis00001@gmail.com**](mailto:absaitovdev@gmail.com)
+- 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot API's**
+- 📫 How to reach me [**asqarservis00001@gmail.com**](mailto:asqarservis00001@gmail.com)
 
 asqarservis00001@gmail.com
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
