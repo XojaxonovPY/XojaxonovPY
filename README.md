@@ -66,7 +66,7 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight" alt="Profile Summary">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?usenamer=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?usename=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Streak Stats">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br/>
