@@ -66,9 +66,9 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight" alt="Profile Summary">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodev-py&theme=tokyonight&hide_border=true" alt="Streak Stats">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodev-py&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XojaxonovPY&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages">
 </p>
