@@ -71,4 +71,3 @@ asqarservis00001@gmail.com
 <p align="center">
    <img src="https://profile-counter.glitch.me/{gayrat-py}/count.svg"/>
 </p>
-manashu profile Readm mda qandaydir hato bor shuni togirla
