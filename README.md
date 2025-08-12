@@ -68,7 +68,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?usename=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Streak Stats">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?usename=XojaxonovPY&theme=tokyonight&hide_border=true" alt="GitHub Stats">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XojaxonovPY&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages">
 </p>
