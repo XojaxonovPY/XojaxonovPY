@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
 <h1 align="center">Hi 👋, I'm G'ayrat</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
@@ -61,7 +60,7 @@ asqarservis00001@gmail.com
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Dilshodbek">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Xojaxonov">
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
