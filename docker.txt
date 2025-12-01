@@ -1,0 +1,30 @@
+ docker --version -> docker ornatilgan ornatilmaganligini bilish uchun
+ sudo systemctl start docker  ->  docker ishga tushirish
+ sudo systemctl restart docker -> docker qayta ishga tushirish
+ sudo systemctl enable docker  ->  docker avtomatik boshlashga sozlash
+ sudo chmod 777 /var/run/docker.sock -> docker socketga ruhsat beradi
+ Password:P@ssw0rd123
+ docker pull image_name -> dockerga default image yuklab olish
+ docker images -> dockerdagi imaglarni korish
+ docker run -it --name container name image_name -> docker container yaratish
+ docker ps -> ishlayotgan containerlarni korish
+ docker ps -a -> hamma conteinirlarni korsatadi
+ udo systemctl status docker -> docker servisi (daemon) ishlayotgan yoki yo‘qligini tekshiradi.
+ docker run -it -d  --name pg  -e POSTGRES_PASSWORD=1234 -p 5433:5432 -d postgres:alpine -> postgres container yaratish sozalmansi
+ docker start pg -> dockerni ishga tushirish
+ docker rm container_id or name -  -> docker containerni ochirish
+ docker rm -f container_id or name - -> docker containerni har qanda holatda ochirish
+ docker rmi image_id or name -> docker  imageni o‘chirish
+ docker rmi -f image_id or name -> docker  Imageni har qanda holatda ochirish
+ docker build -t image_name -> docker proyect yaratib uni image qilib yaratish
+ docker cp container_name /app/. . -> docker container yana project qilish
+ docker login -> docker hubda acount bor yoqligini tekshiradi
+ docker tag image_name username/tag_name -> dockerga hubga yubotiladigan tag
+ docker push username/tag_name -> docker sitga imagni joylash
+ docker compose up -> docker sevise yaratish uchun
+ docker compse down ->servise ochirish uchun
+ docker exec -t my_postgres_db pg_dump -U postgres mydb > backup.sql backup olish
+ docker run --name mongodb -d -p 27017:27017 mongo
+
+
+
