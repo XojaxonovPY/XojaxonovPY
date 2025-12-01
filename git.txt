@@ -1,0 +1,10 @@
+  git status
+  git add -u
+  git commit -m "faylar ozgartirilgan"
+  git push origin main
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin         https://github.com/Xojavonov/MarketBot.git
+  git push -u origin main
