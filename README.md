@@ -52,13 +52,13 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dilshodev-py&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=XojaxonovPY&theme=radical">
 <br/>
-   
+    
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodev-py&theme=tokyonight&hide_border=true" alt="Xojaxonov">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Xojaxonov">
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
@@ -68,5 +68,5 @@
 
 ## 👁️ Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{gayrat-py}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{XojaxonovPY}/count.svg"/>
 </p>
