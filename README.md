@@ -55,7 +55,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=XojaxonovPY&theme=radical">
 <br/>
     
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&show_icons=true">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 <br/>
 </p>
 <br/>
