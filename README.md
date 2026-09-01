@@ -50,27 +50,28 @@
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats & Languages:
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/GitHub-Trophy-blue?style=for-the-badge&logo=github" alt="Trophy Placeholder">
-
-<br/>
-
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight">
-
-<br/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Xojaxonov">
-
-<img width="80%" src="https://img.shields.io/badge/Languages-%20Python%20%7C%20Django%20%7C%20PostgreSQL-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-
-<img width="80%" src="https://img.shields.io/badge/Profile_Summary-XojaxonovPY-0D1117?style=for-the-badge&logo=github&logoColor=white">
-
+  <img width="80%" weight="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XojaxonovPY&theme=tokyonight" alt="GitHub Stats">
 </p>
+
+<p align="center">
+  <img width="80%" weight="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XojaxonovPY&theme=tokyonight" alt="Repos per Language">
+</p>
+
+<p align="center">
+  <img width="80%" weight="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XojaxonovPY&theme=tokyonight" alt="Most Commit Language">
+</p>
+<p align="center">
+<img width="80%" weight="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight">
+</p>
+<p align="center">
+<img width="80%" weight="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Xojaxonov">
+</p>
+<br/>
 
 ## 👁️ Number of visits:
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=XojaxonovPY&theme=radical&color=blue&style=for-the-badge"/>
+   <img src="https://komarev.com/ghpvc/?username=XojaxonovPY&theme=radical&color=blue&style=for-the-badge" width="280"/>
 </p>
