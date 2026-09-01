@@ -55,18 +55,16 @@
 <img src="https://github-profile-trophy.vercel.app/?username=XojaxonovPY&theme=radical">
 <br/>
     
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&show_icons=true">
 <br/>
 
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Xojaxonov">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
 
 ## 👁️ Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{XojaxonovPY}/count.svg"/>
+   <img src="https://komarev.com/ghpvc/?username=XojaxonovPY&theme=radical&color=blue"/>
 </p>
