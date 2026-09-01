@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/GitHub-Trophy-blue?style=for-the-badge&logo=github" alt="Trophy Placeholder">
 <br/>
     
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&show_icons=true">
+<img width="80%" src="[https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&show_icons=true](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight">
 <br/>
 
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Xojaxonov">
