@@ -49,15 +49,20 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+
 # 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=XojaxonovPY&theme=radical">
 <br/>
     
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&show_icons=true">
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XojaxonovPY&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=XojaxonovPY&theme=tokyonight&hide_border=true" alt="Xojaxonov">
+
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XojaxonovPY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
 
